@@ -15,6 +15,12 @@ U-Net: Convolutional Networks for Biomedical Image Segmentation (Ronneberger et 
 
 
 
+The code was developed in Google Colab environment.
+
+View 'defects_detect_blow_hole_dataloader.ipynb' for more information
+
+View the folder 'datasets/defects/img_blow_hole' to get more information on the folder structure
+
 
 
 
