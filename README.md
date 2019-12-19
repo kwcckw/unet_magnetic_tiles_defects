@@ -25,7 +25,7 @@ View the folder 'datasets/defects/img_blow_hole' to get more information on the 
 
 Examples of predicted segmentation output:
 
-![Input image](https://github.com/kwcckw/unet_magnetic_tiles_defects/example_results.png)
+![Input image](https://github.com/kwcckw/unet_magnetic_tiles_defects/blob/master/example_results.png)
 
 
 
