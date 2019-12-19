@@ -1,6 +1,6 @@
 # Magnetic tiles blow hole defects segmentation using Unet
 
-In this example, segmentation was done on identifying the area of blow hole in the magnetic tiles using deep learning approach.
+In this example, segmentation was done to identify the area of blow hole in the magnetic tiles using deep learning approach.
 
 The dataset is available from:
 
