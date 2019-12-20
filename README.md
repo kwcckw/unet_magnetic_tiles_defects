@@ -4,7 +4,7 @@ In this example, segmentation was done to identify the area of blow hole in the 
 
 The dataset is available from:
 
-https://github.com/abin24/Magnetic-tile-defect-datasets
+https://github.com/abin24/Magnetic-tile-defect-datasets.
 
 And the deep learning model UNet is adapted from:
 
